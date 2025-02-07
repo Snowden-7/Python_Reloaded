@@ -48,7 +48,7 @@ Simulates secure communication between clients and servers using TLS/SSL.
 To run any of the projects:
 
 1. Clone the repository:
-  git clone https://github.com/SegawaAbdul/Python_Reloaded.git
+  git clone https://github.com/Snowden-7/Python_Reloaded.git
   Note: Some projects may require additional setup or dependencies. Please refer to the README.md file in each project's directory for specific instructions.
 
 
